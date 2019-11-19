@@ -15,12 +15,12 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../..'))
-sys.path.insert(0, os.path.abspath('../../PyDatSci'))
+sys.path.insert(0, os.path.abspath('../../ncdata'))
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'PyDatSci'
+project = 'ncdata'
 copyright = '2019, Lars Buntemeyer'
 author = 'Lars Buntemeyer'
 
