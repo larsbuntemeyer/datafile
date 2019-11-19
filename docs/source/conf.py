@@ -25,9 +25,9 @@ copyright = '2019, Lars Buntemeyer'
 author = 'Lars Buntemeyer'
 
 # The short X.Y version
-version = ''
+version = '0'
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -80,7 +80,7 @@ pygments_style = None
 # a list of builtin themes.
 #
 #html_theme = 'alabaster'
-html_theme = 'default'
+html_theme = 'sphinxdoc'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -107,7 +107,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PyDatScidoc'
+htmlhelp_basename = 'ncdata'
 
 
 # -- Options for LaTeX output ------------------------------------------------

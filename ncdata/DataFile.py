@@ -55,7 +55,8 @@ class FileReader(object):
     """Reads a NetCDF file, returns global and data field attributes.
 
     You can create a :class:`DataFile.FileReader` object from scratch with this class.
-    Arguments:
+
+    Args:
       filename_str: The filename to read. 
 
     Written by Lars Buntemeyer  
