@@ -144,6 +144,11 @@ class DataFile(object):
 
     You can create a :class:`DataFile` object from scratch with this class.
 
+    :Arguments:
+        
+        filename_str: `str`
+        The filename from which the :class:`DataFile` should be created.
+
     Written by Lars Buntemeyer  
     """
 
