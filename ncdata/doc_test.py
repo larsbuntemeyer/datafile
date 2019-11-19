@@ -12,15 +12,6 @@ import time
 import logging
 
 
-def get_cdo_history(datafile):
-    history = datafile.history.splitlines()
-    history.reverse()
-    cdo_commands = []
-    for line in history:
-        if 'cdo' in line:
-            cdo_commands.append(get_cdo_command_from_line(line))
-    return cdo_commands
-
 
 def test_function():
     """ This is my test function
