@@ -7,7 +7,7 @@ The DataFile module is documented here.
 DataFile
 --------------
 
-.. automodule:: PyDatSci.DataFile
+.. automodule:: DataFile
    :members:
 		
 .. autoclass:: DataFile.DataFile
