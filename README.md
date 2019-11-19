@@ -1,4 +1,4 @@
-# datafile
+# ncdata
 
 A python package for managing CMIP, CORDEX or any kind of NetCDF data.
 
