@@ -1,0 +1,4 @@
+certifi==2019.9.11
+cftime==1.0.4.2
+netCDF4==1.5.3
+numpy==1.17.3
